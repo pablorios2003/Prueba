@@ -12,21 +12,6 @@ header{
     border-style: solid;
     border-color: white;
 }
-<<<<<<< HEAD
-ul li a {
-    color:white;
-    font-size: 35px;
-    position: absolute;
-    margin-inline-end:35px
-}
-ul :hover{
-    color: yellow;
-}
-body{
-   background-color: black;
-}
-=======
->>>>>>> 597ef9f856220396a970ca72160a86149305be0c
 .Principal{
     position: absolute;
     text-align: center;
