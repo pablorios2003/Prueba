@@ -12,9 +12,6 @@ header{
     border-style: solid;
     border-color: white;
 }
-body{
-   background-color: black;
-}
 .Principal{
     position: absolute;
     text-align: center;
@@ -29,8 +26,16 @@ body{
     padding: 20px;
     
 }
-footer{
-    text-align: center;
-    color: white;
-    font-size: 25px;
+body{
+    background-color: black;
 }
+.pie{
+    color: white;
+    border-radius: 35px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+    position: relative;
+    top: 300px;
+}
+
